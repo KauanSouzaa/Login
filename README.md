@@ -1,9 +1,9 @@
-#  Project Login
+# Project Login
 
 
-<img src="./assets/login2.png" alt="exemplo imagem">
+<img src="./assets/login2.png" alt="login">
 
-> Resultado Login.
+> Resultado Login
 
 ### Ajustes e melhorias
 
@@ -11,5 +11,9 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 - [x] Criação HTML
 - [x] Criação CSS
-- [ ] Atualização Futuras 
+- [ ] Atualizções Futuras
+
+
+
+
 
